@@ -4,3 +4,7 @@ https://fonts.google.com/
 Test your font using the Google tools -- you can play with the size, weight, etc. If you have a font that you like, click the + button in the top-right of the font's box. The font settings will be stored in a little action box. Use the @import method as show below. Copy and paste this into the first line of your CSS file here... as line 1. */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 /* don't use Open Sans for your homework. Choose your own font pairings */
+
+p {
+  font-size: 2em;
+}
